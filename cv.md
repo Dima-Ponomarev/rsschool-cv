@@ -20,7 +20,7 @@ Plan to become middle frontend developer in 2 years.
 
 ## Hard skills:
 
-- **Technologies** : HTML5/CSS3, SASS/SCSS, JavaScript, React JS, Git
+- **Technologies** : HTML5/CSS3, SASS/SCSS, JavaScript, React JS, Git, Responsive UI Design, Visual Studio, Figma
 
 - **Paradigms** : OOP, Functional Programming
 
