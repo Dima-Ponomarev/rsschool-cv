@@ -116,6 +116,8 @@ const gameController = (() => {
 
 [Etch-a-sketch](https://github.com/Dima-Ponomarev/Etch-a-Sketch)
 
+[Library](https://github.com/Dima-Ponomarev/Library)
+
 ## Education:
 
 - ISTU Institute of Informatics and Computer Engineering Senior
