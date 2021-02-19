@@ -18,6 +18,8 @@ a{
     text-decoration: none;
 }
 
+.empathized{ font-weight: 700; }
+
 h1{ font-size: 4rem; }
 
 h2{ font-size: 3rem; }
@@ -31,4 +33,21 @@ img{
     width: 20rem;
     object-fit: cover;
     box-shadow: 5px 5px 0px 0px #000000;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin-top: 3rem;
+    border-top: 1px solid #aaa;
+}
+
+.footer-svg{
+    padding: 1rem;
+}
+
+#rsschool-svg{
+    width: 7rem;
 }
